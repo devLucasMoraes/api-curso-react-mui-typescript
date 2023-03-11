@@ -90,5 +90,8 @@
         "id": 7,
         "nome": "salvador"
       }
-    ]
+    ],
+    "auth": {
+      "acessToken": "teste"
+    }
   }
